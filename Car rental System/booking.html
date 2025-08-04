@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Booking Form - Car Rental</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="cars.html">Cars</a>
+      <a href="booking.html">Book Now</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+    <h1>Book a Car</h1>
+  </header>
+  <main>
+    <form class="booking-form">
+      <label for="name">Full Name</label>
+      <input type="text" id="name" required>
+
+      <label for="email">Email</label>
+      <input type="email" id="email" required>
+
+      <label for="car">Select Car</label>
+      <select id="car" required>
+        <option>Sedan</option>
+        <option>SUV</option>
+        <option>Hatchback</option>
+      </select>
+
+      <label for="date">Pick-up Date</label>
+      <input type="date" id="date" required>
+
+      <label for="days">Number of Days</label>
+      <input type="number" id="days" required min="1" max="30">
+
+      <button type="submit">Book Now</button>
+    </form>
+  </main>
+  <footer>
+    <p>&copy; 2025 Car Rental. All rights reserved.</p>
+  </footer>
+</body>
+</html>
