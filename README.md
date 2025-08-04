@@ -1,4 +1,5 @@
 Online Car Rental System
+<img width="1857" height="928" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/fb360062-90b3-49d1-ba4d-b612021b0621" />
 
 A responsive and user-friendly car rental web interface built with HTML and CSS.
 
