@@ -1,2 +1,17 @@
-# Online-Car-Rental-System
-A simple, responsive Online Car Rental System built using HTML and CSS. This project offers a clean, modern user interface and intuitive navigation, allowing users to browse different car categories, book vehicles, and contact the service provider.
+Online Car Rental System
+
+A responsive and user-friendly car rental web interface built with HTML and CSS.
+
+## Features
+- Responsive pages: Home, Car Listings, Booking, Contact
+- Intuitive navigation
+- Clear, modern UI/UX
+
+## Getting Started
+1. Download the project or clone the repo.
+2. Open index.html in your browser.
+
+## Folder Structure
+- HTML files for each page
+- css/style.css
+- images/ for car photos and icons
